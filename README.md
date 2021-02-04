@@ -2,4 +2,4 @@
 A basic NLTK project that is used to find frequency of words in a given text file . 
 
 
-![](Figure1.png)
+![](screenshot/1.png)
